@@ -1,0 +1,7 @@
+hello ZhenHao!hello git!
+hello hello
+git
+ZhenHao
+gi
+:wq
+
